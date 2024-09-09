@@ -15,9 +15,23 @@ An Engine For A Rhythm Video Game Called [Friday Night Funkin](https://github.co
 - FowluhhDev
 
 ## [The Funkin Crew (FNF Original Creators)](https://github.com/FunkinCrew/Funkin)
+- ninjamuffin99 - Lead Programmer
+- PhantomArcade3K - Artist and Animator
+- Evilsk8r - Art
+- Kawaisprite - Musician
 
 ## Additional Credits
 - [Psych Engine Team](https://github.com/ShadowMario/FNF-PsychEngine)
+(this part is fron fnf original credits extra person):
+- EliteMasterEric - Programmer
+- MtH - Charting and Additional Programming
+- GeoKureli - Additional Programming
+- Moawling - Week 6 Pixel Art
+- IvanAlmighty - Misc UI Design
+- BassetFilms - Music for "Monster", Additional Character Design
+- Tom Fulp - For being a great guy and for Newgrounds
+- JohnnyUtah - Voice of Tankman
+- L0Litsmonica - Voice of Mommy Mearest
 
 ## Libraries
 
