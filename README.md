@@ -1,6 +1,6 @@
 # ![](art/icon.png) FNF Circle Engine
 
-An Engine For A Rhythm Video Game Called Friday Night Funkin For A Mod Based On Another Engine Called [FNF LOVE](https://github.com/Stilic/FNF-LOVE)
+An Engine For A Rhythm Video Game Called [Friday Night Funkin](https://github.com/FunkinCrew/Funkin) For A Mod Based On Another Engine Called [FNF LOVE](https://github.com/Stilic/FNF-LOVE)
 
 ## FNF: Circle Engine Dev Team
 - molk (me)
@@ -13,6 +13,8 @@ An Engine For A Rhythm Video Game Called Friday Night Funkin For A Mod Based On 
 - Raltyro
 - Victor Kaoy
 - FowluhhDev
+
+## [The Funkin Crew (FNF Original Creators)](https://github.com/FunkinCrew/Funkin)
 
 ## Additional Credits
 - [Psych Engine Team](https://github.com/ShadowMario/FNF-PsychEngine)
