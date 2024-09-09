@@ -2,6 +2,11 @@
 
 An Engine For A Rhythm Video Game Called Friday Night Funkin For A Mod Based On Another Engine Called FNF LOVE
 
+## FNF: Circle Engine Dev Team
+- molk (me)
+- only me
+- idk
+
 ## FNF LOVE Dev Team
 
 - Stilic (owner)
