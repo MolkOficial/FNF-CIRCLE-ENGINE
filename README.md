@@ -22,7 +22,9 @@ An Engine For A Rhythm Video Game Called [Friday Night Funkin](https://github.co
 
 ## Additional Credits
 - [Psych Engine Team](https://github.com/ShadowMario/FNF-PsychEngine)
+  
 (this part is fron fnf original credits extra person):
+
 - EliteMasterEric - Programmer
 - MtH - Charting and Additional Programming
 - GeoKureli - Additional Programming
