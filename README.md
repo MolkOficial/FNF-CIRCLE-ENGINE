@@ -1,6 +1,6 @@
 # ![](art/icon.png) FNF: CIRCLE ENGINE
 
-![](art/logo.png)
+![](art/info.png)
 
 <p align="center">A port of <a href="https://funkin.me">Friday Night Funkin'</a> to the <a href="https://love2d.org">LÖVE</a> game engine.</p>
 
