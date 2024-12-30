@@ -1,4 +1,4 @@
-# ![](art/icon.png) FNF: CIRCLE ENGINE
+# ![](art/ico.png) FNF: CIRCLE ENGINE
 
 ![](art/info.png)
 
