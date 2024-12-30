@@ -46,7 +46,7 @@ function MainMenuState:enter()
 	self.menuYellow = paths.getImage('menus/menuBG')
 	self.menuMagenta = paths.getImage('menus/menuBGMagenta')
 
-	self.menuList = MenuList(paths.getSound("scrollMenu"), true, "right", function(self, obj)
+	self.menuList = MenuList(paths.getSound("scrollMenu"), true, "centered", function(self, obj)
 		for _, spr in ipairs(self.members) do
 			spr.yAdd = 50 + (self.curSelected) * (80 - game.height * 0.005)
 		end
