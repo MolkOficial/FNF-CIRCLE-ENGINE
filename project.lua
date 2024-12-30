@@ -1,24 +1,24 @@
 return {
 	DEBUG_MODE = true,
 
-	title = "Friday Night Funkin' Löve",
-	file = "FNF-LOVE",
-	icon = "art/icon.png",
-	version = "0.7.1",
-	package = "com.stilic.fnflove",
+	title = "Friday Night Funkin: Circle Engine 0.0.1a",
+	file = "FNF-CIRCLE-ENGINE",
+	icon = "art/ico.png",
+	version = "0.0.1",
+	package = "com.molk.fnfcircleengine",
 	width = 1280,
 	height = 720,
 	FPS = 60,
-	company = "Stilic",
+	company = "Molk Projects",
 
 	flags = {
 		checkForUpdates = false,
 
 		loxelInitialAutoPause = true,
 		loxelInitialParallelUpdate = true,
-		loxelInitialAsyncInput = false,
+		loxelInitialAsyncInput = true,
 
-		loxelForceRenderCameraComplex = false,
+		loxelForceRenderCameraComplex = true,
 		loxelDisableRenderCameraComplex = false,
 		loxelDisableScissorOnRenderCameraSimple = false,
 		loxelDefaultClipCamera = true
