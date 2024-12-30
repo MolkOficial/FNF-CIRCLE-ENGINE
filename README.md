@@ -6,7 +6,7 @@
 
 [![Discord Banner](https://invidget.switchblade.xyz/eFFgHz7X8N)](https://discord.gg/eFFgHz7X8N)
 
-## Dev Team
+## FMF LOVE Dev Team
 
 - Stilic (owner)
 - Raltyro
