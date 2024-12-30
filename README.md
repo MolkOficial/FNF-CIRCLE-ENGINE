@@ -4,7 +4,7 @@
 
 ## <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="18"> Discord Server
 
-[![Discord Banner](https://invidget.switchblade.xyz/eFFgHz7X8N)](https://discord.gg/eFFgHz7X8N)
+[![Discord Banner](https://invidget.switchblade.xyz/eFFgHz7X8N)](https://discord.gg/qcbeh7jqtx)
 
 ## FMF LOVE Dev Team
 
