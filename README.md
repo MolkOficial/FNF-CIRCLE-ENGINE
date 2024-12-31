@@ -24,9 +24,4 @@
 - [lua-https](https://github.com/love2d/lua-https)
 - [Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser)\*
 
-* Was modified for our needs.
-
-
-
-
-# Tutorials
+# Tutorials (not finished)
