@@ -7,21 +7,22 @@
 
 [![Discord Banner](https://invidget.switchblade.xyz/qCBeh7jqtx)](https://discord.gg/qCBeh7jqtx)
 
-## FMF LOVE Dev Team
+## FNF CIRCLE ENGINE Dev Team
+-Molk
 
+## FNF LOVE Dev Team
 - Stilic (owner)
 - Raltyro
 - Victor Kaoy
 - FowluhhDev
 
 ## Libraries
-
-- [baton](https://github.com/tesselode/baton)\*
-- [classic](https://github.com/rxi/classic)
-- [gamestate](https://github.com/vrld/hump/blob/master/gamestate.lua)\*
-- [json](https://github.com/actboy168/json.lua)\*
-- [lua-discordRPC](https://github.com/pfirsich/lua-discordRPC)
-- [lua-https](https://github.com/love2d/lua-https)
+- [Baton](https://github.com/tesselode/baton)\*
+- [Classic](https://github.com/rxi/classic)
+- [Gamestate](https://github.com/vrld/hump/blob/master/gamestate.lua)\*
+- [Json](https://github.com/actboy168/json.lua)\*
+- [Lua-DiscordRPC](https://github.com/pfirsich/lua-discordRPC)
+- [Lua-Https](https://github.com/love2d/lua-https)
 - [Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser)\*
 
 # Tutorials (not finished)
