@@ -26,3 +26,7 @@
 - [Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser)\*
 
 # Tutorials (not finished)
+Execute In Android And Chromebooks
+<a href="">
+  <img src="https://chromeos.dev/badges/en/primary.svg" alt="Add to Chromebook"/>
+</a>
