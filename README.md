@@ -8,7 +8,7 @@
 [![Discord Banner](https://invidget.switchblade.xyz/qCBeh7jqtx)](https://discord.gg/qCBeh7jqtx)
 
 ## FNF CIRCLE ENGINE Dev Team
--Molk
+- Molk
 
 ## FNF LOVE Dev Team
 - Stilic (owner)
