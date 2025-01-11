@@ -25,8 +25,4 @@
 - [Lua-Https](https://github.com/love2d/lua-https)
 - [Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser)\*
 
-# Tutorials (not finished)
-Execute In Android And Chromebooks
-<a href="">
-  <img src="https://chromeos.dev/badges/en/primary.svg" alt="Add to Chromebook"/>
-</a>
+# [Tutorials (not finished)](https://github.com/MolkOficial/CIRCLE-TUTORIALS/tree/main)
