@@ -26,3 +26,7 @@
 - [Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser)\*
 
 # [Tutorials (not finished)](https://github.com/MolkOficial/CIRCLE-TUTORIALS/tree/main)
+
+<a href="https://github.com/MolkOficial/CIRCLE-TUTORIALS/blob/main/androidandchromebooks.md">
+  <img src="https://chromeos.dev/badges/en/primary.svg" alt="Add to Chromebook"/>
+</a>
