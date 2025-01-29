@@ -6,11 +6,11 @@ function UpdateState.check(goToState)
 	if Project.flags.checkForUpdates and not UpdateState.closed then
 		print('Checking for updates...')
 
-		local code, response = Https.request("https://raw.githubusercontent.com/Stilic/FNF-LOVE/main/project.lua")
+		local code, response = Https.request("https://raw.githubusercontent.com/MolkOficial/FNF-CIRCLE-ENGINE/main/project.lua")
 		if code == 200 then
 			local curVersion = Project.version
 			local githubVersion = load(response)().version
-			print('Github version: ' .. githubVersion)
+			print('New version: ' .. githubVersion)
 			print('Your version: ' .. curVersion)
 			if curVersion ~= githubVersion then
 				if goToState then game.switchState(UpdateState(githubVersion), true) end
@@ -58,7 +58,7 @@ end
 
 function UpdateState:update(dt)
 	if controls:pressed('accept') then
-		love.system.openURL('https://github.com/Stilic/FNF-LOVE/tree/main')
+		love.system.openURL('https://github.com/MolkOficial/FNF-CIRCLE-ENGINE/tree/main')
 		game.switchState(TitleState())
 	elseif controls:pressed('back') then
 		util.playSfx(paths.getSound('cancelMenu'))
