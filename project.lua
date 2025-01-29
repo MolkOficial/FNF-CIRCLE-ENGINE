@@ -1,10 +1,10 @@
 return {
 	DEBUG_MODE = true,
 
-	title = "Friday Night Funkin: Circle Engine 0.0.1a",
+	title = "Friday Night Funkin: Circle Engine Alpha",
 	file = "FNF-CIRCLE-ENGINE",
 	icon = "art/ico.png",
-	version = "0.0.1",
+	version = "Alpha",
 	package = "com.molk.fnfcircleengine",
 	width = 1280,
 	height = 720,
