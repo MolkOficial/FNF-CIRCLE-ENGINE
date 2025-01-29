@@ -147,9 +147,6 @@ local triggerChoices = {
 	freeplay = {true, function(self)
 		game.switchState(FreeplayState())
 	end},
-	credits = {true, function(self)
-		game.switchState(CreditsState())
-	end},
 	options = {false, function(self)
 		if self.buttons then self:remove(self.buttons) end
 		self.optionsUI = self.optionsUI or Options(true, function()
@@ -166,11 +163,6 @@ local triggerChoices = {
 		self:add(self.optionsUI)
 		return false
 	end},
-	donate = {false, function(self)
-		love.system.openURL('https://ninja-muffin24.itch.io/funkin')
-		self.menuList.lock = false
-		return true
-	end}
 }
 
 function MainMenuState:onSettingChange(setting, option)

@@ -60,7 +60,6 @@ Stickers = require "funkin.ui.stickers"
 StatsCounter = require "funkin.ui.statscounter"
 
 CalibrationState = require 'funkin.states.calibration'
-CreditsState = require "funkin.states.credits"
 TitleState = require "funkin.states.title"
 MainMenuState = require "funkin.states.mainmenu"
 ModsState = require "funkin.states.mods"
