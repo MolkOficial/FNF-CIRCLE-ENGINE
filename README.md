@@ -17,13 +17,13 @@
 - FowluhhDev
 
 ## Libraries
-- [Baton](https://github.com/tesselode/baton)\
+- [Baton](https://github.com/tesselode/baton)
 - [Classic](https://github.com/rxi/classic)
-- [Gamestate](https://github.com/vrld/hump/blob/master/gamestate.lua)\
-- [Json](https://github.com/actboy168/json.lua)\
+- [Gamestate](https://github.com/vrld/hump/blob/master/gamestate.lua)
+- [Json](https://github.com/actboy168/json.lua)
 - [Lua-DiscordRPC](https://github.com/pfirsich/lua-discordRPC)
 - [Lua-Https](https://github.com/love2d/lua-https)
-- [Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser)\
+- [Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser)
 
 # [Tutorials (not finished)](https://github.com/MolkOficial/CIRCLE-TUTORIALS/tree/main)
 
