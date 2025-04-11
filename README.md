@@ -1,5 +1,14 @@
+## FNF: CIRCLE ENGINE
 
-# ![](art/icomin.png) FNF: CIRCLE ENGINE
+# ⚠ THIS IS NOW "DEAD" ⚠
+
+# Why did this happen?.
+ 
+I haven't updated this for a while, and I'm thinking of creating another "engine" that recreates the NX interface (copyright: Nintendo) in FNF: Love, so there's no more, everything I wanted to do won't be there, although the new one will probably be more active, I can't be sure of it.
+
+Molk. Creator, Coder, Art, Design, ALL of the circle engine -
+
+### Better move to the original FNF: LOVE or the archived Psych Engine, don't use this shit.
 
 ![](art/info.png)
 
